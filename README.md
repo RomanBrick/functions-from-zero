@@ -1,8 +1,7 @@
 # functions-from-zero
 live training
 
-[![Python application test with Github Actions](https://github.com/noahgift/functions-from-zero/actions/workflows/main.yml/badge.svg)](https://github.com/noahgift/functions-from-zero/actions/workflows/main.yml)
-
+[![Codespaces Prebuilds](https://github.com/RomanBrick/functions-from-zero/actions/workflows/codespaces/create_codespaces_prebuilds/badge.svg)](https://github.com/RomanBrick/functions-from-zero/actions/workflows/codespaces/create_codespaces_prebuilds)
 
 ### To call Microservice 
 
