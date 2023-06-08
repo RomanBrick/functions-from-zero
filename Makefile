@@ -12,3 +12,5 @@ lint:
 	pylint --disable=R,C,E1120 *.py
 
 all: install lint test
+
+ 
